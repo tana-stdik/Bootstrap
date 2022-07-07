@@ -1,3 +1,6 @@
+section{
+    padding-top: 50px;
+}
 .img-circle {
     width: 180px;
     height: 180px;
@@ -9,4 +12,7 @@
 .img-3{
     width: 500px;
     height: 500px;
+}
+.pad-video{
+    padding-top: 50px;
 }
