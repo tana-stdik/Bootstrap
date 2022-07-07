@@ -16,3 +16,20 @@ section{
 .pad-video{
     padding-top: 50px;
 }
+footer{
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 2px solid grey;
+}
+.navbar-nav-footer{
+    display: flex;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+.text-footer{
+    padding-top: 5px;   
+}
+.marg{
+    margin-left: 20px;
+}
